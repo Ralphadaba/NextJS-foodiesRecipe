@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { Suspense } from 'react';  // 452 // below
 import Link from 'next/link';
 
